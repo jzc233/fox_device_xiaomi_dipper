@@ -17,9 +17,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/fox_polaris.mk
+    $(LOCAL_DIR)/fox_dipper.mk
 
 COMMON_LUNCH_CHOICES := \
-    fox_polaris-user \
-    fox_polaris-userdebug \
-    fox_polaris-eng
+    fox_dipper-user \
+    fox_dipper-userdebug \
+    fox_dipper-eng
