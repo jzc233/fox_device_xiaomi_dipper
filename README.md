@@ -15,7 +15,7 @@
 ==================================
 ## Device specifications
 
-| Device                  | Xiaomi Mi MIX 2S                                |
+| Device                  | Xiaomi Mi 8                                |
 | ----------------------: | :---------------------------------------------- |
 | SoC                     | Qualcomm SDM845 Snapdragon 845                  |
 | CPU                     | 8x Qualcomm® Kryo™ 385 up to 2.8GHz             |
