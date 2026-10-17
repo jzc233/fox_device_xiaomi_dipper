@@ -10,7 +10,7 @@
 <img src="https://raw.githubusercontent.com/OrangeFoxRecovery/.github/fox/profile/OrangeFox.jpg" width="max-content" height="auto"/>
 </p>
 
-# Device tree for Xiaomi Mi MIX 2S (codenamed _"polaris"_)
+# Device tree for Xiaomi Mi MIX 2S (codenamed _"dipper"_)
 
 ==================================
 ## Device specifications
